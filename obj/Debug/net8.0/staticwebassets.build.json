@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cEAQyIJZdkRln87DcZst3jHwb9EgLjxbp4l0Gpr6mpg=",
+  "Source": "DemoPolicyAuthInWebAPI",
+  "BasePath": "_content/DemoPolicyAuthInWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
